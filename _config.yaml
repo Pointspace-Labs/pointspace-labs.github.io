@@ -1,0 +1,8 @@
+title: Your Org Name
+description: Projects, documentation, and demos
+theme: jekyll-theme-cayman
+
+# Optional: put these pages in the top navigation
+header_pages:
+  - index.md
+  - projects.md
