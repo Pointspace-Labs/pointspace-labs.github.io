@@ -1,6 +1,6 @@
 title: Your Org Name
 description: Projects, documentation, and demos
-theme: just-the-docs/just-the-docs@v0.8.0
+theme: just-the-docs
 
 # Optional: put these pages in the top navigation
 header_pages:
